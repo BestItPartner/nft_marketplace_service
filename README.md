@@ -4,7 +4,7 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=round)](https://github.com/prettier/prettier)
 ![](https://img.shields.io/badge/Typescript-💪-blue)
 
-To use together with [NFT Marketplace](https://github.com/silviopaganini/nft-market)
+To use together with [NFT Marketplace](https://github.com/BestItPartner/nft_marketplace_opensea_react)
 
 ## Installation
 
